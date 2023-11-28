@@ -1,0 +1,12 @@
+Package: interpol.ki
+Title: interpolation polynomiale
+Version: 1.0
+Authors@R: 
+    person("kana", "icare", , "icarekana@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: ce package realise l'interpolation polynomiale pour une plage de pint donnees en dimension 2 plus precisement par la methode de Newton
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
